@@ -1,11 +1,9 @@
-# about me
-- ユーザー名  
-ゲームで使ってたID，delucaが取れなかったので`deiucq`になってますがdeluca(でりゅーさ)です．
-- 経歴  
-筑波大学→東京工業大学工学院1年
-- 興味  
+#about me
+- 所属
+東工大工学院
+- 興味
 制御工学 Python C++ 
-- やってみたい  
+- やってみたい
 画像処理 ROS Kaggle 
 
 # Projects
