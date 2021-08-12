@@ -1,9 +1,11 @@
 # about me
 - 所属
 東工大工学院
-- 興味
-制御工学 Python C++ 
-- やってみたい
+
+- 勉強している
+制御工学 Python C++
+
+- やってみたいけどやってない
 画像処理 ROS Kaggle 
 
 # Projects
