@@ -1,6 +1,6 @@
 # about me
-- blong to
-Tokyo Institute of Technology / School of Engineering
+- belong to
+Tokyo Institute of Technology, Systems and Control Engineering
 
 - Skill
   - Python
