@@ -1,17 +1,10 @@
 # about me
 - belong to
-Tokyo Institute of Technology, Systems and Control Engineering
-
-- Skill
-  - Python
-  - C++
-  - ROS
-  - KiCAD
+  - Tokyo Institute of Technology, Systems and Control Engineering
+  - ABU Robocon Team Maquinista
 - Interest
-  - Sensing
-  - SLAM
-  - Computer vision
-  - Control engineering
+  - Robotics
+  - Computer Vision
 
 <!---
 deIucq/deIucq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
